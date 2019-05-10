@@ -30,6 +30,9 @@
   * Exclude outliers
   * With basic feature engineers [5/5 modification]
   * change categorical variable list -> exclude include txn_floor, etc
+  * TBrain_Yushan_lgbm_2080.ipynb [5/6 modification]
+
+
 
 
 
@@ -42,7 +45,9 @@
   * change categorical variable
   * feature modification
 
-
+* 5/6 modification
+  * treat txn_floor as categorical variable and replace missing value with "None"
+  * group data (assumption they might in the same building then predict)
 
 * Pending
 
