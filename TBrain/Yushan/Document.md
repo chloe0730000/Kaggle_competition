@@ -78,7 +78,14 @@
   * add square terms
   * add interaction term (comment out)
 
-  
+
+
+
+* 6/24
+  * check whether having the index will contribute better housing price
+    * only need to check "\_index_50$" since for "\_index_500$" most index only has 1 variation
+
+    
 
 * Pending
 
