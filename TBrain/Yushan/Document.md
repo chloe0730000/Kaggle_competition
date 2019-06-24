@@ -84,6 +84,17 @@
 * 6/24
   * check whether having the index will contribute better housing price
     * only need to check "\_index_50$" since for "\_index_500$" most index only has 1 variation
+  * Relationship with total price
+    * born rate < 9.3 (+ trend)
+    * building type = 2 -> lowest average total price
+    * N_50 <= 8 (+)
+    * highschool_rate (-)
+    * elementary rate (-)
+    * junior rate (-)
+    * bachelor rate (+)
+    * doc rate (+)
+    * elem_cum
+    * transform the dummy -> make things worse
 
     
 
